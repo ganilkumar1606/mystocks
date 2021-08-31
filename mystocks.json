@@ -1,0 +1,28 @@
+{ "share": 
+    [
+        {
+    "XXXXX": 
+    [
+        {
+        "purchase date": "XXXXX",
+        "quantity": 1234,
+        "purchase price": 1234
+    },
+	{
+        "purchase date": "XXXXX",
+        "quantity": 1234,
+        "purchase price": 1234
+    }
+    
+],
+    "YYYY":
+    [
+        {
+            "purchase date": "XXXXX",
+            "quantity": 1234,
+            "purchase price": 1234
+        }
+]
+}
+    ]
+}
