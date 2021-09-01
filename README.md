@@ -1,6 +1,6 @@
 # mystocks
 #This small .exe file creates a holistic view of your stocks in a html file. 
-#gives you the following. 
+#generates following information. 
 
 #1. all stocks profit/loss per purchase
 #2. over all investment and current value. 
