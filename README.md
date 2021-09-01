@@ -3,7 +3,7 @@
 #generates following information. 
 
 #1. all stocks profit/loss per purchase
-#2. over all investment and current value. 
+#2. overall investment and current value. 
 #3. watchlist 
 #4. top gainers
 #5. top loosers 
